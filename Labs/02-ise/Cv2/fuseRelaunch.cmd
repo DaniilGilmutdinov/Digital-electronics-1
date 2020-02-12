@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lab661/Documents/xpgilmu00/Digital-electronics-1/Labs/02-ise/Cv2/cv2_tb00_isim_beh.exe" -prj "/home/lab661/Documents/xpgilmu00/Digital-electronics-1/Labs/02-ise/Cv2/cv2_tb00_beh.prj" "work.cv2_tb00" 
